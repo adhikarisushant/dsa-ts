@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-- Run TypeScript the compiler:
+- Run the TypeScript compiler:
 
 ```bash
     tsc
